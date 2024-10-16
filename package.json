@@ -1,0 +1,27 @@
+{
+  "name": "find-rides",
+  "version": "1.0.0",
+  "description": "Finding rides in appwrite",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mckagabo/find-rides.git"
+  },
+  "keywords": [
+    "find-rides"
+  ],
+  "author": "mckagabo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mckagabo/find-rides/issues"
+  },
+  "homepage": "https://github.com/mckagabo/find-rides#readme",
+  "dependencies": {
+    "node-appwrite": "^14.1.0"
+  }
+}
